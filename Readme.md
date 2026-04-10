@@ -37,7 +37,7 @@ This project can be useful in healthcare applications to support early detection
 
 ### 1. Download datasets
 
-You can download the datasets here: https://www.kaggle.com/code/ahmdayman/diabetes
+You can download the datasets here: [https://www.kaggle.com/code/ahmdayman/diabetes].
 Then, create a "datasets" folder and copy the downloaded file into it. After that, rename the file to "diabetes.csv".
 
 ### 2. Create and activate virtual environment
