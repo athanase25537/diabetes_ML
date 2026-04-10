@@ -35,7 +35,12 @@ This project can be useful in healthcare applications to support early detection
 
 ## Setup Project
 
-### 1. Create and activate virtual environment
+### 1. Download datasets
+
+You can download the datasets here: https://www.kaggle.com/code/ahmdayman/diabetes
+Then, create a "datasets" folder and copy the downloaded file into it. After that, rename the file to "diabetes.csv".
+
+### 2. Create and activate virtual environment
 
 ```bash
 python3 -m venv venv
@@ -43,7 +48,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-### 2. Options:
+### 3. Options:
 
 #### Option 1: Run with Jupyter Notebook (Recommended)
 ##### Install Jupyter:
